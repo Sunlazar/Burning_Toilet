@@ -1,2 +1,2 @@
 
-print(Layo was here)
+print('Layo was here')
